@@ -1,0 +1,8 @@
+# Built receiver app (make it with receiver/build.bat)
+*.exe
+
+# Personal alarm settings saved by the receiver
+receiver/PiezoReceiver.settings.txt
+
+# Data recorded by the receiver
+*.csv
